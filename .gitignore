@@ -1,0 +1,9 @@
+screenshot/*.png
+images/*.png
+images/*.jpg
+images/*.gif
+node_modules
+dist
+.DS_Store
+*/.wepycache
+package-lock.json

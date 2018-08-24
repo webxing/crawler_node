@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "node": "node src",
+    "supervisor": "supervisor src"
+  },
+  "dependencies": {
+    "puppeteer": "^1.7.0",
+    "puppeteer-core": "^1.7.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
+}
